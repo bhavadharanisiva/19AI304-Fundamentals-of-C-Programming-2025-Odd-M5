@@ -39,6 +39,7 @@
 ### Step 12: 
   Stop
 # Program:
+```
 #include<stdio.h>
 void swapByValue(int a, int b)
 {
@@ -69,6 +70,7 @@ int main()
     printf("After swapByReference: x = %d, y = %d\n", x, y);
     return 0;
 }
+```
 # Output:
 <img width="501" height="428" alt="image" src="https://github.com/user-attachments/assets/ad7d7cc9-5b34-4a6d-a466-e876f225d1ee" />
 
@@ -109,6 +111,7 @@ int main()
 ### Step 10:
   Stop
 # Program:
+```
 #include <stdio.h>
 int fibonacci(int n)
 {
@@ -143,7 +146,7 @@ int main()
     printf("\n");
     return 0;
 }
-
+```
 # Output:
 <img width="561" height="241" alt="image" src="https://github.com/user-attachments/assets/a46142f7-8512-4af5-b0df-53b3ac8eb5c4" />
 
@@ -188,6 +191,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 12:
   Stop
 # Program:
+```
 #include <stdio.h>
 void printSequence(int start, int end)
 {
@@ -224,6 +228,7 @@ int main()
     printf("\n");
     return 0;
 }
+```
 # Output:
 <img width="390" height="326" alt="image" src="https://github.com/user-attachments/assets/db8563b5-5ca9-41c7-aaaf-0afdb2506e24" />
 
@@ -268,6 +273,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -296,7 +302,7 @@ int main()
 
     return 0;
 }
-
+```
 # Output:
 <img width="427" height="317" alt="image" src="https://github.com/user-attachments/assets/edb8e768-519f-455a-ad1b-6e7b55996583" />
 
@@ -335,6 +341,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+```
 #include <stdio.h>
 void displayArray(int arr[], int n)
 {
@@ -364,7 +371,7 @@ int main()
 
     return 0;
 }
-
+```
 # Output:
 <img width="421" height="343" alt="image" src="https://github.com/user-attachments/assets/e9eefa1c-a39d-4325-a4ac-574df0789f65" />
 
